@@ -23,7 +23,7 @@ This C++ program simulates a burger ordering system for a fictional restaurant c
 - Calculates total costs based on user selections and displays a comprehensive receipt.
 
 ### Usage
-1. **Compile and Run**: Compile the program and run the executable. Ensure all necessary header files are included (`<iostream>`, `<bits/stdc++.h>`).
+1. **Compile and Run**: Compile the program and run the executable. Ensure all necessary header files are included (`<iostream>`, `<cctype>`).
 2. **Order Placement**: Follow on-screen prompts to select dining option, choose menu items, specify quantities, and optionally add extra items.
 3. **Receipt Display**: After completing the order, the program generates and displays a detailed receipt with the total amount due.
 
