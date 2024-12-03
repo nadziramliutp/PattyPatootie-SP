@@ -1,7 +1,8 @@
-# BURGER-ORDERING-SYSTEM
+# PATTY PATOOTIE BURGER-ORDERING-SYSTEM 
+## TFB1013 Structured Programming : 1st Year 1st Semester
 
 ## Overview
-This C++ program simulates a burger ordering system for a fictional restaurant called "Patty Patootie Burger". It allows users to view a menu, place orders for various burger sets and extra items, and generates a receipt with the total cost.
+This C++ console program simulates a burger ordering system for a fictional restaurant called "Patty Patootie Burger". It allows users to view a menu, place orders for various burger sets and extra items, and generates a receipt with the total cost.
 
 ## Features
 - **Menu Display**: Displays a list of burger sets with prices (both as sets and à la carte) and extra items available.
